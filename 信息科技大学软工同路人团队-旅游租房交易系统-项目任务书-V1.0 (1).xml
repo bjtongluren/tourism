@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.4" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《任务书》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-kQV-Qo:" language="zh-cn" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><任务书 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="大学新生入学管理系统" 项目标识="管理系统" version="1.0">
+		<状态与版本信息>
+			<文件状态></文件状态>
+			<文件标识></文件标识>
+			<当前版本></当前版本>
+			<作者>
+				<姓名>史东航</姓名>
+				<学号>2017011268</学号>
+				<团队>同路人团队</团队>
+			</作者>
+			<完成日期></完成日期>
+			<版本更新信息></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员></使用人员>
+			<编写目的></编写目的>
+			<背景></背景>
+		</引言>
+	</首部>
+	<下达人>同路人小队</下达人>
+	<下达时间>2020-10-04</下达时间>
+	<项目经理>史东航</项目经理>
+	<项目计划提交期限>2020-10-06</项目计划提交期限>
+	<送达人>同路人小队成员</送达人>
+	<项目目标>
+		<目标条目>建立新生入学管理系统，以及相关数据库</目标条目>
+	</项目目标>
+	<项目范围>
+		<项目性质>合同软件项目</项目性质>
+		<项目组成><div xmlns="http://www.w3.org/1999/xhtml">2.2.1 游客客户端</div>
+<div xmlns="http://www.w3.org/1999/xhtml">       用户注册，快速完成登录等操作</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.2.2 房东客户端</div>
+<div xmlns="http://www.w3.org/1999/xhtml">       房东发布房屋信息。上传个人介绍</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.2.3 支付系统</div>
+<div xmlns="http://www.w3.org/1999/xhtml">       游客对于租住的房间支付租金，房东进行收款</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.2.4 增删改查</div>
+<div xmlns="http://www.w3.org/1999/xhtml">      游客和房东对于租住和出售的房间信息进行增删改查操作</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></项目组成>
+		<项目要求><div xmlns="http://www.w3.org/1999/xhtml">2.3.1 时间要求</div>
+<div xmlns="http://www.w3.org/1999/xhtml">查询响应时间：小于2秒</div>
+<div xmlns="http://www.w3.org/1999/xhtml">更新处理时间：小于3秒</div></项目要求>
+		<项目范围特殊说明>项目相关任何代码和文档，属公司机密，不可外泄</项目范围特殊说明>
+	</项目范围>
+	<项目输入>
+		<输入条目>无</输入条目>
+	</项目输入>
+	<项目用户>游客，房东以及所有新用户</项目用户>
+	<与其他项目关系>同步旅游租房交易系统相关数据库内容</与其他项目关系>
+	<项目限制>
+		<完成时间>2020-11-15</完成时间>
+		<资金>二十万</资金>
+		<资源><div xmlns="http://www.w3.org/1999/xhtml">人力资源：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="MsoTableGrid msoUcTable" style="WORD-WRAP: break-word; BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 367.2pt; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" cellPadding="0" width="612" border="1">
+<colgroup>
+<col style="WIDTH: 111px"/>
+<col style="WIDTH: 95px"/>
+<col style="WIDTH: 170px"/>
+<col style="WIDTH: 66px"/>
+<col style="WIDTH: 170px"/></colgroup>
+<tbody>
+<tr>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">人员</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">管理组</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">开发组</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">测试</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">用户组</span></font></p></td></tr>
+<tr>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">史东航</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">项目经理</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">组长</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td></tr>
+<tr>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">张彤</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">系统分析，文档撰写</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td></tr>
+<tr>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">贺奇</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">需求评审，验收测试</span></font></p></td></tr>
+<tr style="MIN-HEIGHT: 26px">
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">隗宫旭</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">组长</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td></tr>
+<tr>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">岳雷</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">编程，单元测试</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td></tr>
+<tr style="MIN-HEIGHT: 26px">
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">龙硕</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">编程，单元测试</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td></tr>
+<tr>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">李帅</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">测试</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td></tr>
+<tr>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">景长涛</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">测试</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td></tr>
+<tr>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">韩文昊</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt">编程，单元测试</span></font></p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td>
+<td vAlign="top" style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm" align="justify"><font face="等线"><span style="FONT-SIZE: 13.5pt"></span></font> </p></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0.75pt; MARGIN-TOP: 0cm; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 16.5pt" align="left"><span style="FONT-SIZE: 10pt; BORDER-TOP: gainsboro 1pt solid; BORDER-RIGHT: gainsboro 1pt solid; BORDER-BOTTOM: gainsboro 1pt solid; BORDER-LEFT: gainsboro 1pt solid"><font face="宋体"><font style="BACKGROUND-COLOR: white">有固定工作场所，每人都配有计算机（台式机/笔记本）一台</font></font></span></p>
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0.75pt; MARGIN-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 16.5pt" align="left"><span style="FONT-SIZE: 10pt; BORDER-TOP: gainsboro 1pt solid; BORDER-RIGHT: gainsboro 1pt solid; BORDER-BOTTOM: gainsboro 1pt solid; BORDER-LEFT: gainsboro 1pt solid"><font face="宋体"><font style="BACKGROUND-COLOR: white">财力资源：</font></font></span></p>
+<p style="FONT-SIZE: 10.5pt; MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 16.5pt" align="left"><span style="FONT-SIZE: 10pt; BORDER-TOP: gainsboro 1pt solid; BORDER-RIGHT: gainsboro 1pt solid; BORDER-BOTTOM: gainsboro 1pt solid; BORDER-LEFT: gainsboro 1pt solid"><font style="BACKGROUND-COLOR: white" face="宋体">一、定额流动资产：二十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">二、定额流动资产平均余额： 5万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">三、固定资产（原值/净值）六十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">四、经营资金</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 1.</font><font style="BACKGROUND-COLOR: white" face="宋体">固定资金： 五十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 2.</font><font style="BACKGROUND-COLOR: white" face="宋体">流动资金： 六十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 3.</font><font style="BACKGROUND-COLOR: white" face="宋体">用于周转的自有资金： 十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">五、货币资金： 一十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">六、应收及预付款： 二十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">七、预收及预付款： 七十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">八、实际完成年产值： 一百万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">九、实现利润总额： 五十万元</font><br/><font style="BACKGROUND-COLOR: white" face="宋体">十、反映企业管理水平指标</font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 1.</font><font style="BACKGROUND-COLOR: white" face="宋体">资金利用率：</font><font face="宋体"><font style="BACKGROUND-COLOR: white"> 70%<br/> 2.流动资金周转率： 3次</font></font><br/><font style="BACKGROUND-COLOR: white" face="宋体"> 3.</font><font face="宋体"><font style="BACKGROUND-COLOR: white">企业偿还能力：良好</font></font></span></p></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></资源>
+		<实现限制><div xmlns="http://www.w3.org/1999/xhtml">MVC结构</div>
+<div xmlns="http://www.w3.org/1999/xhtml">开发平台：windows，java，mysql，eclipse等</div></实现限制>
+	</项目限制>
+	<其他></其他>
+</任务书>
